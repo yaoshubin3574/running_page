@@ -15,8 +15,8 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: '風が強く吹いている',
-  siteUrl: 'http://localhost:5173/',
+  siteTitle: 'Running Page',
+  siteUrl: 'https://yaoshubin3574.github.io/running_page/',
   logo: 'https://p.sda1.dev/23/dabbc3fe25a87a2af69e4cd2f90d1490/logo.jpg',
   description: 'Personal site and blog',
   navLinks: [
@@ -25,8 +25,8 @@ const data: ISiteMetadataResult = {
       url: `${getBasePath()}/summary`,
     },
     {
-      name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      name: 'Strava',
+      url: 'https://www.strava.com/athletes/94671460',
     },
     {
       name: 'About',
